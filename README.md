@@ -4,19 +4,19 @@ Gnosis is evolving through its ambitious Gnosis 3.0 initiative, expanding its re
 
 ## Core Units of Gnosis to build in
 
-### Hashi
+### Hashi 🌉
 Hashi is focused on improving bridge security between chains. As a foundational infrastructure, it ensures robust and secure interactions between Gnosis Chain and other blockchain networks.
 
-### Gnosis Pay
+### Gnosis Pay 💳
 Gnosis Pay is integrating Web3 with existing financial rails, aiming to eventually replace them with more efficient, blockchain-based solutions. This venture is pivotal in our push towards decentralized financial systems.
 
-### Circles
+### Circles 🔵
 Circles introduces a web-of-trust-based decentralized UBI system, designed to provide sustainable and scalable financial support within the community, leveraging blockchain technology for transparent and fair distribution.
 
-### Gnosis Chain
+### Gnosis Chain ⛓️
 Gnosis Chain, a sister chain to Ethereum, focuses on scaling Ethereum through horizontal expansion. It plays a critical role in the infrastructure for deploying and managing decentralized applications.
 
-## Project Ideas
+## Project Ideas 🧠
 
 We have compiled a variety of project ideas that align with the Gnosis 3.0 vision across our core units: Hashi, Gnosis Pay, Circles, Gnosis Chain, and Metri. These ideas are accessible directly within this repository, under the **Issues** tab.
 
@@ -32,7 +32,7 @@ We have compiled a variety of project ideas that align with the Gnosis 3.0 visio
 We encourage you to dive into these ideas, innovate, and contribute to the Gnosis ecosystem. Each contribution helps us move closer to a decentralized and open financial future.
 
 
-## Funding
+## Funding 💰
 
 While Gnosis does not directly offer grants for project ideas, potential builders are encouraged to explore collaboration and funding opportunities by connecting with our Business Development team. For more details and to initiate discussions, please fill out this [form](https://tally.so/r/3lrN05) and specify that you're interested in learning more, with some info about your project..
 

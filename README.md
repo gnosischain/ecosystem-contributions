@@ -10,7 +10,7 @@ Hashi is focused on improving bridge security between chains. As a foundational 
 ### Gnosis Pay 💳
 Gnosis Pay is integrating Web3 with existing financial rails, aiming to eventually replace them with more efficient, blockchain-based solutions. This venture is pivotal in our push towards decentralized financial systems.
 
-### Circles 🔵
+### Circles 🟣🟠
 Circles introduces a web-of-trust-based decentralized UBI system, designed to provide sustainable and scalable financial support within the community, leveraging blockchain technology for transparent and fair distribution.
 
 ### Gnosis Chain ⛓️
@@ -39,11 +39,11 @@ While Gnosis does not directly offer grants for project ideas, potential builder
 ## Additional Resources
 
 ### Communities
-- Join the [Gnosis Chain Discord](#) for community discussions and support.
-- Participate in the [Governance Forum](#) to engage with governance topics and even see some of the newer ideas coming down the pipeline.
+- Join the [Gnosis Chain Discord](https://discord.com/invite/gnosischain) for community discussions and support.
+- Participate in the [Governance Forum](https://forum.gnosis.io/) to engage with governance topics and even see some of the newer ideas coming down the pipeline.
 
 ### Contact
-- Reach out to our developer relations team via Telegram: [@adam0x7](#)
+- Reach out to our developer relations team via Telegram: [@adam0x7](https://t.me/adam0x7)
 
 ### Documentation
-- Access the [Gnosis Documentation](#) for technical guides, API references, and development resources.
+- Access the [Gnosis Documentation](https://docs.gnosischain.com/) for technical guides, API references, and development resources.

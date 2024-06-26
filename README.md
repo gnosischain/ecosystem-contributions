@@ -1,4 +1,4 @@
-# Gnosis Builder Ideas 🦉
+# Gnosis Builder Ideas 🦉🧠
 
 Gnosis is evolving through its ambitious Gnosis 3.0 initiative, expanding its reach beyond traditional blockchain applications into a collective of interconnected projects. We are looking for builders to contribute to this growing ecosystem of innovative solutions focused on revolutionizing payments, decentralized financial tools, and blockchain infrastructure.
 
